@@ -41,4 +41,4 @@ Based on the Codecademy ideas.
 
 ### Contact
 
-Created by [@NaniPeters](github.com/NaniPeters) - feel free to contact me!
+Created by [@NaniPeters](https://www.github.com/NaniPeters) - feel free to contact me!
