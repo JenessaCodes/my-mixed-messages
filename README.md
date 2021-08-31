@@ -10,11 +10,11 @@
 
 [Setup](#Setup)
 
-[Status](Status)
+[Status](#Status)
 
-[Inspiration](Inspiration)
+[Inspiration](#Inspiration)
 
-[Contact](Contact)
+[Contact](#Contact)
 ### General info 
 
 This script is made for the Full-Stack learning path at Codecademy.
