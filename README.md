@@ -1,7 +1,7 @@
 # My-Mixed-Messages
 
 >Funny random dares generator script. 
-> ~ Nani Peters
+> ~ Jenessa Codes
 
 ## Table of contents
 [General info](#General-info)
